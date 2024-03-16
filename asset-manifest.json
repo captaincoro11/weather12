@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/weather12/static/css/main.285ad01f.css",
+    "main.js": "/weather12/static/js/main.2b885b85.js",
+    "static/media/clouds.png": "/weather12/static/media/clouds.058d1121e95348721a5e.png",
+    "static/media/mist.png": "/weather12/static/media/mist.bec995ef50f9dab24180.png",
+    "static/media/snow.png": "/weather12/static/media/snow.c8ed556c8e144314a339.png",
+    "index.html": "/weather12/index.html",
+    "main.285ad01f.css.map": "/weather12/static/css/main.285ad01f.css.map",
+    "main.2b885b85.js.map": "/weather12/static/js/main.2b885b85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285ad01f.css",
+    "static/js/main.2b885b85.js"
+  ]
+}
